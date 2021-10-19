@@ -105,7 +105,7 @@
 | 75  | Katrin Haas                |  A14              |  katrin-hs                         |                                                                                   |                                                                         | 27/09/2021      |
 | 76  |  Lindsey Zastawny          |  12               | lindseyzast                        |                                    
 | 77  | Liam Cheung                | 11                | LiamCheung0128                   | <https://github.com/LiamCheung0128/Individual_Assignment>                              |                                                                       | 27/09/2021      |
-| 78  | Atakan Erdogdu              |  2             |  AtakanErdogdu|28/09/2021 |  https://github.com/AtakanErdogdu/individual_project                                         |                                                                                   
+| 78  | Atakan Erdogdu              |  2             |  AtakanErdogdu|28/09/2021 |  https://github.com/AtakanErdogdu/my_website                                        |https://atakan-erdogdu.netlify.app/ |                                                                                   
 | 79  | Eunice Liu               | A2                | Liu-Yucen-Eunice                   | <https://github.com/Liu-Yucen-Eunice/Individual_project.git >                              |                                                                       | 2021-09-27       |
 | 80  | Sid Chen                | A14                | SidChenGithub                   | <https://github.com/SidChenGithub/>                             |                                                                       | 27/09/2021      |
 | 81  | Sanskriti Bajaj               |13                | SanskritiBajaj98                   |                             |                                                                       | 27/09/2021      |
@@ -137,5 +137,3 @@
 | 107 | Yuzhou Li            | A13             |     Joe9806             | 2021-10-04    | 
 | 108 | Kaize Ying           | A9             |     Kaize Ying            | 2021-10-04    |  
 | 109 | Teen Ho Nicholas Ching            | A8              |     nickching98             | 2021-10-04    |  
-| 110 | Yuxin Cheng            | A14              |     yuxinchengmfa             | 2021-10-04    |  https://github.com/yuxinchengmfa/individual_project.git
-
